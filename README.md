@@ -12,3 +12,7 @@ Room Scheduler: Written in Java using Netbeans, this project has a GUI interface
 <br/>
 File System: Implemented a file system in a Linux environment, written in C. The file system is able to power on/off, open/close/read/write documents, using caches, and 
 also able to receive calls to operations over a server (See readme files for detailed description) <br/>
+<br/>
+RayTracer: See detailed description.<br/>
+<br/>
+Computer Vision Project: This project, written in Matlab, accomplishes image filtering and hough trasnform. See detailed descriotion for more information.<br/>
