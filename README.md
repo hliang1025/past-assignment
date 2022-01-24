@@ -7,7 +7,7 @@ https://drive.google.com/file/d/16Jr6_CPbw6T8_rPsdrncJe9tQ5cDdoMZ/view Graphics 
 https://drive.google.com/file/d/16TJDl6XUATrxMHfZSj8GlgcI5_N3Ere9/view Graphics - Motion Capture Animation Project<br/>
 https://drive.google.com/file/d/1ZzMOTzfbfZIExi4PySzmtxksJx25nsuW/view Graphics - RollerCoaster Project<br/>
 
-## Description on Project
+## Description on Projects
 Room Scheduler: Written in Java using Netbeans, this project has a GUI interface, and connect to a local database(JDBC) with SQL commands. The project lets the user enter/delete rooms, make/cancel reservations if possible, and displays all reservations. <br/>
 <br/>
 File System(might see the filename as assign5): Implemented a file system in a Linux environment, written in C. The file system is able to power on/off, open/close/read/write documents, using caches, and 
