@@ -16,6 +16,7 @@ also able to receive calls to operations over a server (See readme files for det
 RayTracer: See detailed description.<br/>
 <br/>
 Computer Vision Project: This project, written in Matlab, accomplishes image filtering and hough trasnform. See detailed description for more information.<br/>
+<br/>
 Concurrency Programming Project: implemented channel operations(open, close, create, destroy, send, receive) that would handle multithreading and preventing data races and race conditions, written in C and in a Linux environment<br/>
 <br/>
 Malloc Lab: Implemented dynamic memory allocation functions in C and in a Linux environment, namely, the functions that serve the same purpose as malloc, free, and realloc as in the C standard library.
